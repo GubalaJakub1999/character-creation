@@ -1,7 +1,7 @@
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
 
-const Header = () => {
+const Home = () => {
     return(
     <Card border="light" className="text-center">
       <Card.Body>
@@ -14,4 +14,4 @@ const Header = () => {
     </Card>
     )
 }
-export default Header;
+export default Home;
